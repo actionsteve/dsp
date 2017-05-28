@@ -81,7 +81,7 @@ Upload these 3 files to the [`editors`](editors/) folder.
 
 What terminal editor will be your preferred choice of use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I'll begin using **nano**, because it is relatively simple to use to get started. I may switch to **vim** or **emacs** when I find myself needing to use a more powerful editor.
 
 --
 
@@ -89,6 +89,6 @@ What terminal editor will be your preferred choice of use? How did you make your
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I will start by using Spyder and Sublime Text. I really like the ease of running code from the development environment (it's as easy as F5 in Spyder), and the variable explorer makes it easy to track your variables. However, I've heard others swear by text editors, and Sumlime Text looks smooth and customizable. As we explore programming beyond Python (e.g., JavaScript), I foresee it being convenient to keep everything in a single editor like Sublime.
 
  
