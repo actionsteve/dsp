@@ -19,7 +19,7 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > - `pwd`: show current working directory path
+> > - `pwd`: show current working directory path  
 > > - `hostname`: show the name of your computer
 > > - `mkdir [directory]`: create a new directory
 > > - `mkdir -p [path/directory]`: (make a directory along a path, even when the path doesn't yet exist)
@@ -50,7 +50,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+>>`ls`: list contents of a directory...  
+`ls -a`: ...including directories beginning with a dot (hidden directories)  
+`ls -l`: ...listed in long format  
+`ls -lh`: ...listed in long format, using unit suffixes for file sizes  
+`ls -lah`: ...including hidden directories, listed in long format, and using unit suffixes for file sizes  
+`ls -t`: ...sorted by time modified (most recent first)  
+`ls -Glp`: ...listed in long format with colorized output enabled and a slash after each filename if that file is a directory
 
 ---
 
