@@ -19,7 +19,23 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > - `pwd`: show current working directory path
+> > - `hostname`: show the name of your computer
+> > - `mkdir [directory]`: create a new directory
+> > - `mkdir -p [path/directory]`: (make a directory along a path, even when the path doesn't yet exist)
+> > - `cd`: change directory
+> > - `ls`: list contents of directory
+> > - `ls -a`: list all files (including hidden files)
+> > - `rmdir [directory_name]`: delete a directory
+> > - `pushd [path/directory]`: switch to a new directory, keeping your current directory in a queue for later
+> > - `popd`: return to the last directory that you pushed to using `pushd`
+> > - `touch [file_name]`: create an empty file
+> > - `cp [old_file] [new_file]`: copy a file within a directory
+> > - `cp [file] [directory]`: copy a file into a new directory
+> > - `mv [old_name] [new_name]`: rename files or directories
+> > - `mv [file] [directory]`: move file to a new directory
+> > - `cat [file]`: reads a file or files sequentially
+> > - `rm [file]`: deletes a file
 
 ---
 
