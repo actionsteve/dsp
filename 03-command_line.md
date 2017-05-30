@@ -64,7 +64,12 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+>> `ls -S`: display files sorted by size  
+`ls -R`: display all subdirectories  
+`ls -m`: display file names as a comma-separated list  
+`ls -r`: display files in reverse order  
+`ls -x`: display files as rows across the screen  
+`ls -1`: display each entry on its own line
 
 ---
 
