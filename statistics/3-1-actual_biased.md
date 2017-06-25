@@ -2,6 +2,7 @@
 
 >> Actual mean 1.02420515504  
 >> Biased mean 2.40367910066  
+![3.1pmf](img/TS3-1.png)
 ```python
 import nsfg
 import thinkstats2

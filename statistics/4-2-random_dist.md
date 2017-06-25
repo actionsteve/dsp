@@ -2,6 +2,7 @@
 
 >> The PMF makes sense. Each randomly selecte value is unlikely to be a duplicate and therefore has an equal probability (prob=0.0010) of being selected.  
 >> The CDF is approximately a straight line with a slope of 1, so about x% of the data we randomly generated will be below the x^th percential (for any x we choose). This, the distribution is uniform.  
+![4.1pmf/cdf](img/TS4-2.png)
 ```python
 import numpy as np
 import thinkstats2
