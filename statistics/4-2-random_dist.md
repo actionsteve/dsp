@@ -20,16 +20,6 @@ thinkplot.PrePlot(1)
 thinkplot.SubPlot(2)
 thinkplot.Cdf(cdf)
 thinkplot.Config(xlabel='Random variate', ylabel='CDF')
-
-# PMF makes sense; each randomly selected value is unlikely to be a duplicate
-# and therefore has an equal probability (p=0.0010) of being selected.
-#
-# CDF is approximately a straight line with a slope of 1, so about x% of
-# the data we randomly generated will be below the x^th percentile, for any x.
-# Thus, the distribution is uniform. The following snippet confirms this slope
-# is usually not far from 1 for values in [0.01, .99]:
-#
-# print([(cdf.Prob(x)/x) for x in [x/100 for x in range(1, 100)]])
 ```
 >> The following snippet confirms this slope is not usually far from 1 (y=x) for values in the range [0.01, .99]:  
 ```python
