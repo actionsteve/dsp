@@ -4,7 +4,7 @@
 >> First babies are lighter than others.  
 >> The effect size is  very small.  
 
->> d_prglngth:  0.028879044654449883. 
+>> d_prglngth:  0.028879044654449883.  
 >> First babies take longer than others.  
 >> The effect size is  very small.  
 
