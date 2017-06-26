@@ -121,7 +121,8 @@ P(I|T) ≈ 45%
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Frequentists define the probability of an event in terms of the relative frequency of observing that event. They believe that, given some fixed yet unknown parameters, a population of data looks a certain way, so in the limit, randomly observed data samples will reflect the population probabilities. Frequentist statistics can involve p values, null hypotheses, confidence intervals, etc.  
+>> Bayesians use probabilities as likelihoods of observed data, given prior distributions of parameters. This is a more subjective measure of strength of belief about an event. They inductively reason what probability distributions might be, based on observed outcomes. Bayesian statistics starts with existing "prior probabilities" that may be revised by further experiments.  
 
 ---
 
